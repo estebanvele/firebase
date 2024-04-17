@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="texto1">Bienvenido, Que deseas realizar ↓</string>
+    <string name="info">Ingrese la informacion aqui</string>
+    <string name="name">Nombre</string>
+    <string name="add">Agregar</string>
+    <string name="bd">Base de datos</string>
+</resources>
